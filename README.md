@@ -77,9 +77,8 @@ The app works with **stock market historical data**.
 ## 👨‍💻 Author
 **Mirza Yasir Abdullah Baig**  
 
-- 🌐 [Kaggle](https://www.kaggle.com/mirzayasirabdullah07)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
-- 💻 [GitHub](https://github.com/mirzayasirabdullahbaig07)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshit-21y/)  
+- 💻 [GitHub](https://github.com/Harshit-0021)  
 
 ---
 
