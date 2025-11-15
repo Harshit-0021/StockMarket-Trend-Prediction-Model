@@ -86,7 +86,7 @@ st.line_chart(close_data)
 days_to_predict = st.number_input(
     "Enter number of days to predict:",
     min_value=1,
-    max_value=30,
+    max_value=300,
     value=5
 )
 
@@ -143,3 +143,4 @@ else:
     st.pyplot(fig)
 
     plt.close(fig)
+
