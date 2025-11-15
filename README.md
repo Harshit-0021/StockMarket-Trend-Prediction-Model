@@ -5,10 +5,7 @@ An **AI-powered web application** built with **Streamlit** that predicts **futur
 ---
 
 ## 🚀 Demo
-🔗 [Live App on Streamlit](https://stockmarketprediction07.streamlit.app/)  
-
-## 🚀 Video Demo
-[https://github.com/user-attachments/assets/a4ee292f-34d8-4e39-b24c-c9015d468aed](https://github.com/user-attachments/assets/a4ee292f-34d8-4e39-b24c-c9015d468aed)
+🔗 [Live App on Streamlit](https://stockmarket-trend-prediction-model-21h.streamlit.app/)  
 
 ---
 
@@ -60,10 +57,10 @@ The app works with **stock market historical data**.
 
 ## 📸 Screenshots
 ### 🏠 Home Page
-<img width="1894" height="848" alt="image" src="https://github.com/user-attachments/assets/8946b8d2-67d2-4e74-a9b1-2121a49e6841" />
+<img width="1338" height="564" alt="image" src="https://github.com/user-attachments/assets/bed01495-8804-4a9e-bafa-ca382af47c75" />
 
 ### 📊 Prediction Results
-<img width="1873" height="810" alt="image" src="https://github.com/user-attachments/assets/fd394daa-ce85-4dc3-85fc-1bb544de6b05" />
+<img width="1223" height="533" alt="image" src="https://github.com/user-attachments/assets/244fe73f-dbaa-47b3-adef-7a604c5b0b5c" />
 
 ### 📊 Prediction Results
 <img width="1883" height="793" alt="image" src="https://github.com/user-attachments/assets/d63a5aa6-2f35-4d0a-b35d-3f6b20a1e959" />
