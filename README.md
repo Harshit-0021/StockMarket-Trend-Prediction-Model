@@ -63,16 +63,16 @@ The app works with **stock market historical data**.
 <img width="1223" height="533" alt="image" src="https://github.com/user-attachments/assets/244fe73f-dbaa-47b3-adef-7a604c5b0b5c" />
 
 ### 📊 Prediction Results
-<img width="1883" height="793" alt="image" src="https://github.com/user-attachments/assets/d63a5aa6-2f35-4d0a-b35d-3f6b20a1e959" />
+<img width="1353" height="613" alt="image" src="https://github.com/user-attachments/assets/03d3b393-7d17-49ed-9522-881b255b1ce0" />
 
 ### 📊 Prediction Results
-<img width="1902" height="840" alt="image" src="https://github.com/user-attachments/assets/8ee22954-3939-4756-b74e-2032802db329" />
+<img width="1256" height="614" alt="image" src="https://github.com/user-attachments/assets/a87b56e5-beac-4544-9afe-dc99e8d6fa51" />
 
 
 ---
 
 ## 👨‍💻 Author
-**Mirza Yasir Abdullah Baig**  
+**Harshit**  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshit-21y/)  
 - 💻 [GitHub](https://github.com/Harshit-0021)  
