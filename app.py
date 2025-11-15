@@ -22,11 +22,11 @@ st.sidebar.info(
 st.sidebar.title("About Me")
 st.sidebar.info(
     """
-    **Mirza Yasir Abdullah Baig**
+    **Harshit**
 
-    - [LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)
-    - [GitHub](https://github.com/mirzayasirabdullahbaig07)
-    - [Kaggle](https://www.kaggle.com/mirzayasirabdullah07)
+    - [LinkedIn](https://www.linkedin.com/in/harshit-21y/)
+    - [GitHub](https://github.com/Harshit-0021)
+
     """
 )
 
@@ -141,4 +141,5 @@ else:
     ax.legend()
     ax.grid(True)
     st.pyplot(fig)
+
     plt.close(fig)
